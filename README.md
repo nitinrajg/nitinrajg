@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm currently working on a university project<br>I'm looking to collaborate on upcoming trends<br>I'm currently learning C++<br><br>Feel free to ask about me
+# 👨‍💻 About Me<br>
+🎓 B.Tech Student | Passionate about technology and innovation.<br>
+💡 Exploring Cutting-Edge Tech | Always eager to learn and implement new trends.<br>
+🛠️ Currently Working On | A university project with a strong technical foundation.<br>
+🔍 Looking to Collaborate On | Open-source projects, innovative ideas, and trending technologies.<br>
+📚 Currently Learning | Data Structures & Algorithms (DSA) to strengthen my problem-solving skills.<br>
 
 
 ## 🌐 Socials:
